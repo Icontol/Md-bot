@@ -14,7 +14,7 @@ if (!res.ok) throw eror
         return !0
 }
 
-handler.help = [' <pertanyaan>']
+handler.help = ['van <pertanyaan>']
 handler.tags = ['main']
 handler.command = /^(van)$/i
 handler.limit = false
