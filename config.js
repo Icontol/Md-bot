@@ -62,7 +62,7 @@ global.lynk = '-'
 //Link Social Media Ganti Aja Kalau Ga Punya Biarin Aja
 global.sig = 'https://www.instagram.com/ivantheo159' //instagram
 global.sgh = 'https://github.com/' //github
-global.sgc = 'https://chat.whatsapp.com/LvFWJkJHanHLRAPB0MgmCO' //group whatsapp
+global.sgc = 'https://chat.whatsapp.com/LfpvTsTBnsnKKrs7ZAU4Qr' //group whatsapp
 global.sdc = '-' //discord
 global.snh = 'https://youtube.com/shorts/A9al3BIhu10?feature=share' //youtube
 //Donasi/Payment
